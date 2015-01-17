@@ -5,8 +5,6 @@ public class Main {
         System.out.println("Hello Worlddddd!");
         System.out.println("senditmecaguen tu puta madreo");
 
-
-
     }
 
 }
